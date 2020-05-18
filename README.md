@@ -1,7 +1,7 @@
 # 4d-component-link-manager
 UDP scan for 4D Server II payload and display in listbox (v18)
 
-### Usage
+### Usage (UI)
 
 ```
 /* returns a shared singleton */
@@ -18,3 +18,20 @@ For best performance, run in compiled mode!
 The plugin call to UDP scan will each run in a premptive thread.
 
 Unlike the default "connect to server" dialog, supports multiple port numbers.
+
+### Usage (API)
+
+```
+/* returns a shared singleton */
+$link_manager:=link_manager 
+
+$params:=New object("port";19813;"wait";1)
+$formula:=Formula(on_after_scan )
+$ctx:=New object("window";0;"method";"")
+
+/* atomic call */
+$status:=$link_manager.scan()
+
+/* async call */
+$status:=$link_manager.scan($params;$formula;$ctx)
+```
