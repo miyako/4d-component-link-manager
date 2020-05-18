@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<xliff version="1.0" xmlns:d4="http://www.4d.com/d4-ns">
+    <header>
+        <note>link_manager</note>
+    </header>
+    <group resname="themes">
+        <trans-unit id="AB34B98B98574FE4AD23F36814CF0EE4" resname="AB34B98B98574FE4AD23F36814CF0EE4" translate="no">
+            <source>link_manager</source>
+        </trans-unit>
+    </group>
+    <group d4:groupName="AB34B98B98574FE4AD23F36814CF0EE4" restype="x-4DK#">
+        <trans-unit d4:value="-1:L" id="AB34B98B98574FE4AD23F36814CF0EE4.100">
+            <source>signal_timeout_error</source>
+        </trans-unit>
+        <trans-unit d4:value="10000:L" id="AB34B98B98574FE4AD23F36814CF0EE4.101">
+            <source>form_timer_default_interval</source>
+        </trans-unit>
+        <trans-unit d4:value="6:L" id="AB34B98B98574FE4AD23F36814CF0EE4.102">
+            <source>form_timer_default_delay</source>
+        </trans-unit>
+        <trans-unit d4:value="30:L" id="AB34B98B98574FE4AD23F36814CF0EE4.103">
+            <source>signal_default_wait</source>
+        </trans-unit>
+    </group>
+</xliff>

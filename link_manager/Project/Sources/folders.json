@@ -1,0 +1,35 @@
+﻿{
+	"dialog": {
+		"methods": [
+			"dialog_p",
+			"meta_dialog",
+			"on_after_scan",
+			"on_after_scan_ui"
+		],
+		"forms": [
+			"dialog"
+		]
+	},
+	"private": {
+		"methods": [
+			"check_plugins",
+			"e_signal_timeout",
+			"f_dialog",
+			"f_scan",
+			"o_status"
+		]
+	},
+	"public": {
+		"methods": [
+			"link_manager"
+		]
+	},
+	"worker": {
+		"methods": [
+			"check_plugins_c",
+			"f_dialog_c",
+			"f_scan_p"
+		]
+	},
+	"trash": {}
+}

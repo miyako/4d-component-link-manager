@@ -1,0 +1,104 @@
+﻿{
+	"Sources/Methods/link_manager.4dm": {
+		"left": 168,
+		"top": 226,
+		"width": 894,
+		"height": 690
+	},
+	"Sources/Methods/TEST.4dm": {
+		"left": 464,
+		"top": 176,
+		"width": 894,
+		"height": 638
+	},
+	"Sources/Methods/check_plugins_c.4dm": {
+		"left": 241,
+		"top": 279,
+		"width": 1103,
+		"height": 700
+	},
+	"Sources/Methods/check_plugins.4dm": {
+		"left": 241,
+		"top": 279,
+		"width": 1103,
+		"height": 700
+	},
+	"Sources/Methods/f_scan.4dm": {
+		"left": 457,
+		"top": 197,
+		"width": 894,
+		"height": 690
+	},
+	"Sources/Methods/on_after_scan.4dm": {
+		"left": 464,
+		"top": 176,
+		"width": 894,
+		"height": 638
+	},
+	"Sources/Methods/f_scan_p.4dm": {
+		"left": 461,
+		"top": 200,
+		"width": 1103,
+		"height": 674
+	},
+	"Sources/Methods/o_status.4dm": {
+		"left": 114,
+		"top": 195,
+		"width": 1103,
+		"height": 674
+	},
+	"Sources/Methods/e_signal_timeout.4dm": {
+		"left": 58,
+		"top": 420,
+		"width": 1103,
+		"height": 674
+	},
+	"Sources/Methods/f_dialog.4dm": {
+		"left": 464,
+		"top": 150,
+		"width": 894,
+		"height": 664
+	},
+	"Sources/Methods/f_dialog_c.4dm": {
+		"left": 237,
+		"top": 322,
+		"width": 894,
+		"height": 690
+	},
+	"Sources/Forms/dialog/method.4dm": {
+		"left": 464,
+		"top": 150,
+		"width": 894,
+		"height": 664
+	},
+	"Sources/Methods/on_after_scan_ui.4dm": {
+		"left": 464,
+		"top": 176,
+		"width": 894,
+		"height": 638
+	},
+	"Sources/Forms/dialog/ObjectMethods/servers.4dm": {
+		"left": 453,
+		"top": 280,
+		"width": 894,
+		"height": 638
+	},
+	"Sources/Methods/dialog_p.4dm": {
+		"left": 464,
+		"top": 150,
+		"width": 894,
+		"height": 664
+	},
+	"Sources/Forms/dialog/ObjectMethods/refresh.4dm": {
+		"left": 249,
+		"top": 198,
+		"width": 894,
+		"height": 690
+	},
+	"Sources/Methods/meta_dialog.4dm": {
+		"left": 312,
+		"top": 159,
+		"width": 894,
+		"height": 638
+	}
+}

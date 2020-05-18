@@ -1,0 +1,157 @@
+﻿{
+	"Sources/Methods/link_manager.4dm": {
+		"startSelection": 21,
+		"endSelection": 21,
+		"firstSelectedLine": 21,
+		"lastSelectedLine": 21,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-18T09:51:37.397Z"
+	},
+	"Sources/Methods/TEST.4dm": {
+		"startSelection": 23,
+		"endSelection": 23,
+		"firstSelectedLine": 10,
+		"lastSelectedLine": 10,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-18T12:05:04.877Z"
+	},
+	"Sources/Methods/check_plugins_c.4dm": {
+		"startSelection": 13,
+		"endSelection": 13,
+		"firstSelectedLine": 24,
+		"lastSelectedLine": 24,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-18T08:15:25.566Z"
+	},
+	"Sources/Methods/check_plugins.4dm": {
+		"startSelection": 7,
+		"endSelection": 7,
+		"firstSelectedLine": 16,
+		"lastSelectedLine": 16,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-18T08:15:39.305Z"
+	},
+	"Sources/Methods/f_scan.4dm": {
+		"startSelection": 18,
+		"endSelection": 18,
+		"firstSelectedLine": 25,
+		"lastSelectedLine": 25,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-18T09:28:27.631Z"
+	},
+	"Sources/Methods/on_after_scan.4dm": {
+		"startSelection": 41,
+		"endSelection": 41,
+		"firstSelectedLine": 13,
+		"lastSelectedLine": 13,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-18T09:25:46.624Z"
+	},
+	"Sources/Methods/f_scan_p.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 11,
+		"lastSelectedLine": 11,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-18T09:01:18.870Z"
+	},
+	"Sources/Methods/o_status.4dm": {
+		"startSelection": 1,
+		"endSelection": 1,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-18T08:31:34.229Z"
+	},
+	"Sources/Methods/e_signal_timeout.4dm": {
+		"startSelection": 10,
+		"endSelection": 10,
+		"firstSelectedLine": 7,
+		"lastSelectedLine": 7,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-18T08:38:35.080Z"
+	},
+	"Sources/Methods/f_dialog.4dm": {
+		"startSelection": 14,
+		"endSelection": 14,
+		"firstSelectedLine": 13,
+		"lastSelectedLine": 13,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-18T09:09:10.833Z"
+	},
+	"Sources/Methods/f_dialog_c.4dm": {
+		"startSelection": 17,
+		"endSelection": 17,
+		"firstSelectedLine": 8,
+		"lastSelectedLine": 8,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-18T09:08:48.609Z"
+	},
+	"Sources/Forms/dialog/method.4dm": {
+		"startSelection": 22,
+		"endSelection": 36,
+		"firstSelectedLine": 40,
+		"lastSelectedLine": 40,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-18T11:38:44.516Z"
+	},
+	"Sources/Methods/on_after_scan_ui.4dm": {
+		"startSelection": 10,
+		"endSelection": 10,
+		"firstSelectedLine": 11,
+		"lastSelectedLine": 11,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-18T11:58:22.208Z"
+	},
+	"Sources/Forms/dialog/ObjectMethods/servers.4dm": {
+		"startSelection": 9,
+		"endSelection": 9,
+		"firstSelectedLine": 8,
+		"lastSelectedLine": 8,
+		"folding": [
+			5
+		],
+		"bookmarks": [],
+		"stamp": "2020-05-18T11:37:30.461Z"
+	},
+	"Sources/Methods/dialog_p.4dm": {
+		"startSelection": 9,
+		"endSelection": 9,
+		"firstSelectedLine": 28,
+		"lastSelectedLine": 28,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-18T11:23:30.889Z"
+	},
+	"Sources/Forms/dialog/ObjectMethods/refresh.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 6,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-18T10:34:28.813Z"
+	},
+	"Sources/Methods/meta_dialog.4dm": {
+		"startSelection": 24,
+		"endSelection": 24,
+		"firstSelectedLine": 3,
+		"lastSelectedLine": 3,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-18T11:39:27.560Z"
+	}
+}
