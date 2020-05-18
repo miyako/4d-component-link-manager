@@ -19,7 +19,9 @@ The plugin call to UDP scan will each run in a premptive thread.
 
 Unlike the default "connect to server" dialog, supports multiple port numbers.
 
-By default, the list is updated every ``20`` seconds.
+By default, the list is updated every ``10`` seconds.
+
+See [constants.xlf](https://github.com/miyako/4d-component-link-manager/blob/master/link_manager/Resources/constants.xlf).
 
 Also, it is updated with each ``On Activate`` form event.
 
