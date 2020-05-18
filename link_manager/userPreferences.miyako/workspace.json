@@ -1,6 +1,32 @@
 ﻿{
 	"editors": [
 		{
+			"type": "method",
+			"id": 2147483633,
+			"previousTabType": "form",
+			"previousTabID": 82,
+			"codeDescriptor": {
+				"type": 3,
+				"formName": "dialog",
+				"methodPath": "/SOURCES/Forms/dialog/method.4dm"
+			}
+		},
+		{
+			"type": "form",
+			"id": 82,
+			"previousTabType": "method",
+			"previousTabID": 2147483638,
+			"formName": "dialog"
+		},
+		{
+			"type": "method",
+			"id": 2147483638,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "TEST"
+			}
+		},
+		{
 			"type": "explorer"
 		}
 	]

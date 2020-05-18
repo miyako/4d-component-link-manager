@@ -14,61 +14,17 @@
 	"windowMaxWidth": 32767,
 	"windowMaxHeight": 1200,
 	"rightMargin": 20,
-	"bottomMargin": 20,
+	"bottomMargin": 2,
 	"events": [
 		"onLoad",
+		"onActivate",
 		"onUnload"
 	],
 	"windowTitle": "",
 	"destination": "detailScreen",
 	"pages": [
 		{
-			"objects": {
-				"debug.timestalp": {
-					"type": "input",
-					"left": 20,
-					"top": 259,
-					"width": 171,
-					"height": 17,
-					"enterable": false,
-					"dataSource": "Form:C1466.timestamp",
-					"focusable": false,
-					"contextMenu": "none",
-					"fill": "transparent",
-					"borderStyle": "none",
-					"class": "debug",
-					"sizingY": "move"
-				},
-				"refresh": {
-					"type": "button",
-					"text": "",
-					"top": 256,
-					"left": 547,
-					"width": 88,
-					"height": 22,
-					"events": [
-						"onClick"
-					],
-					"display": true,
-					"shortcutAccel": true,
-					"shortcutControl": false,
-					"shortcutShift": false,
-					"shortcutAlt": false,
-					"shortcutKey": "r",
-					"sizingX": "move",
-					"method": "ObjectMethods/refresh.4dm"
-				},
-				"debug.refresh": {
-					"type": "text",
-					"text": "command/control+R to refresh",
-					"top": 260,
-					"left": 217,
-					"width": 207,
-					"height": 16,
-					"class": "debug",
-					"sizingX": "move"
-				}
-			}
+			"objects": {}
 		},
 		{
 			"objects": {
@@ -161,6 +117,21 @@
 							"width": 80
 						}
 					]
+				},
+				"debug.timestalp": {
+					"type": "input",
+					"left": 20,
+					"top": 281,
+					"width": 171,
+					"height": 17,
+					"enterable": false,
+					"dataSource": "Form:C1466.timestamp",
+					"focusable": false,
+					"contextMenu": "none",
+					"fill": "transparent",
+					"borderStyle": "none",
+					"class": "debug",
+					"sizingY": "move"
 				}
 			}
 		}

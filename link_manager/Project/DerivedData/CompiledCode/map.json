@@ -61,10 +61,6 @@
 			"path": "Sources/Forms/dialog/method.4dm"
 		},
 		{
-			"id": 2147483632,
-			"path": "Sources/Forms/dialog/ObjectMethods/refresh.4dm"
-		},
-		{
 			"id": 2147483631,
 			"path": "Sources/Forms/dialog/ObjectMethods/servers.4dm"
 		}

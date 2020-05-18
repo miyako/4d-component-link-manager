@@ -6,10 +6,10 @@
 		"height": 690
 	},
 	"Sources/Methods/TEST.4dm": {
-		"left": 464,
-		"top": 176,
+		"left": 509,
+		"top": 364,
 		"width": 894,
-		"height": 638
+		"height": 612
 	},
 	"Sources/Methods/check_plugins_c.4dm": {
 		"left": 241,
@@ -66,16 +66,16 @@
 		"height": 690
 	},
 	"Sources/Forms/dialog/method.4dm": {
-		"left": 464,
-		"top": 150,
-		"width": 894,
-		"height": 664
-	},
-	"Sources/Methods/on_after_scan_ui.4dm": {
-		"left": 464,
-		"top": 176,
+		"left": 509,
+		"top": 338,
 		"width": 894,
 		"height": 638
+	},
+	"Sources/Methods/on_after_scan_ui.4dm": {
+		"left": 509,
+		"top": 364,
+		"width": 894,
+		"height": 612
 	},
 	"Sources/Forms/dialog/ObjectMethods/servers.4dm": {
 		"left": 453,
@@ -90,10 +90,10 @@
 		"height": 664
 	},
 	"Sources/Forms/dialog/ObjectMethods/refresh.4dm": {
-		"left": 249,
-		"top": 198,
+		"left": 464,
+		"top": 202,
 		"width": 894,
-		"height": 690
+		"height": 612
 	},
 	"Sources/Methods/meta_dialog.4dm": {
 		"left": 312,

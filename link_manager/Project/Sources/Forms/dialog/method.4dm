@@ -3,14 +3,9 @@ $event:=FORM Event:C1606
 Case of 
 	: ($event.code=On Load:K2:1)
 		
-		$DEBUG:=False:C215
-		
-		If (Not:C34($DEBUG))
-			OBJECT SET VISIBLE:C603(*;"debug.@";False:C215)
-			OBJECT SET VISIBLE:C603(*;"refresh";False:C215)
+		If (Not:C34(Is compiled mode:C492))
+			OBJECT SET VISIBLE:C603(*;"debug.@";True:C214)
 		End if 
-		
-		OBJECT SET FOCUS RECTANGLE INVISIBLE:C1177(*;"refresh";True:C214)
 		
 		C_COLLECTION:C1488($ports)
 		$ports:=Form:C1466.ports
@@ -85,5 +80,9 @@ without starting a new shadow runloop
 	: ($event.code=On Unload:K2:2)
 		
 		KILL WORKER:C1390(Form:C1466.worker.name)
+		
+	: ($event.code=On Activate:K2:9)
+		
+		CALL WORKER:C1389(Form:C1466.worker.name;Form:C1466.worker.delegate;Form:C1466.ctx;Form:C1466.params)
 		
 End case 

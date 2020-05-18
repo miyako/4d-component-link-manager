@@ -32,5 +32,3 @@ For each ($server;$servers)
 End for each 
 
 Form:C1466.servers.col:=Form:C1466.servers.col.orderBy("name asc")
-
-OBJECT SET ENABLED:C1123(*;"refresh";True:C214)
