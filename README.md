@@ -19,6 +19,10 @@ The plugin call to UDP scan will each run in a premptive thread.
 
 Unlike the default "connect to server" dialog, supports multiple port numbers.
 
+By default, the list is updated every ``20`` seconds.
+
+Also, it is updated with each ``On Activate`` form event.
+
 ### Usage (API)
 
 ```
