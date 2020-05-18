@@ -13,17 +13,17 @@ $link_manager.dialog($params)
 
 <img width="767" alt="" src="https://user-images.githubusercontent.com/1725068/82210630-620efb00-994a-11ea-9706-2413cca826a2.png">
 
-For best performance, run in compiled mode!
+* For best performance, run in compiled mode!
 
-The plugin call to UDP scan will each run in a premptive thread.
+* The plugin call to UDP scan will each run in a dedicated premptive thread in compiled mode.
 
-Unlike the default "connect to server" dialog, supports multiple port numbers.
+* The dialog will run in the main process (``1``). Multiple instances are supported (``DIALOG(*)``.
 
-By default, the list is updated every ``10`` seconds.
+* Unlike the default "connect to server" dialog, supports multiple port numbers.
 
-See [constants.xlf](https://github.com/miyako/4d-component-link-manager/blob/master/link_manager/Resources/constants.xlf).
+* By default, the list is updated every ``10`` seconds. See [constants.xlf](https://github.com/miyako/4d-component-link-manager/blob/master/link_manager/Resources/constants.xlf).
 
-Also, it is updated with each ``On Activate`` form event.
+* Also, it is updated with each ``On Activate`` form event.
 
 ### Usage (API)
 
