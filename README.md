@@ -3,7 +3,7 @@ UDP scan for 4D Server II payload and display in listbox (v18)
 
 #### Usage
 
-```4dm
+```
 /* returns a shared singleton */
 $link_manager:=link_manager 
 
