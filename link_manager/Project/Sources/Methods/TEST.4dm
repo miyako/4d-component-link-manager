@@ -2,7 +2,7 @@
 /* returns a shared singleton */
 $link_manager:=link_manager 
 
-$params:=New object:C1471("ports";New collection:C1472(19813;19814);"wait";1)
+$params:=New object:C1471("ports";New collection:C1472(19813;19823);"wait";1)
 
 $link_manager.dialog($params)
 

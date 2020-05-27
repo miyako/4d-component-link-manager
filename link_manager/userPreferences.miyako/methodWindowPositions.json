@@ -6,8 +6,8 @@
 		"height": 690
 	},
 	"Sources/Methods/TEST.4dm": {
-		"left": 509,
-		"top": 364,
+		"left": 500,
+		"top": 348,
 		"width": 894,
 		"height": 612
 	},
@@ -66,22 +66,22 @@
 		"height": 690
 	},
 	"Sources/Forms/dialog/method.4dm": {
-		"left": 509,
-		"top": 338,
-		"width": 894,
-		"height": 638
-	},
-	"Sources/Methods/on_after_scan_ui.4dm": {
-		"left": 509,
-		"top": 364,
+		"left": 500,
+		"top": 348,
 		"width": 894,
 		"height": 612
 	},
-	"Sources/Forms/dialog/ObjectMethods/servers.4dm": {
-		"left": 453,
-		"top": 280,
+	"Sources/Methods/on_after_scan_ui.4dm": {
+		"left": 662,
+		"top": 357,
 		"width": 894,
-		"height": 638
+		"height": 664
+	},
+	"Sources/Forms/dialog/ObjectMethods/servers.4dm": {
+		"left": 589,
+		"top": 565,
+		"width": 894,
+		"height": 612
 	},
 	"Sources/Methods/dialog_p.4dm": {
 		"left": 464,
@@ -100,5 +100,23 @@
 		"top": 159,
 		"width": 894,
 		"height": 638
+	},
+	"Sources/Methods/connect_to_server.4dm": {
+		"left": 662,
+		"top": 383,
+		"width": 894,
+		"height": 638
+	},
+	"Sources/Forms/dialog/ObjectMethods/return.4dm": {
+		"left": 755,
+		"top": 412,
+		"width": 894,
+		"height": 638
+	},
+	"Sources/Forms/dialog/ObjectMethods/enter.4dm": {
+		"left": 170,
+		"top": 263,
+		"width": 894,
+		"height": 612
 	}
 }

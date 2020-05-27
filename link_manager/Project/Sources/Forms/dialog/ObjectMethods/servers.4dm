@@ -35,8 +35,6 @@ in project mode, drag=none triggers an automatic effect on ui
 		
 	: ($event.code=On Double Clicked:K2:5)
 		
-		If (Form:C1466[$collection].item#Null:C1517)
-			
-		End if 
+		Form:C1466.connect.call(Form:C1466[$collection].item)
 		
 End case 

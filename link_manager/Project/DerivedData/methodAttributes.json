@@ -36,8 +36,15 @@
 				"preemptive": "incapable"
 			}
 		},
+		"connect_to_server": {
+			"timeStamp": "2020-05-27T23:45:13.561Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "incapable"
+			}
+		},
 		"on_after_scan_ui": {
-			"timeStamp": "2020-05-18T21:47:13.487Z",
+			"timeStamp": "2020-05-27T23:44:00.603Z",
 			"attributes": {
 				"invisible": true,
 				"preemptive": "incapable"
@@ -65,7 +72,7 @@
 			}
 		},
 		"TEST": {
-			"timeStamp": "2020-05-18T12:05:04.877Z"
+			"timeStamp": "2020-05-27T23:14:10.178Z"
 		},
 		"f_dialog": {
 			"timeStamp": "2020-05-18T09:09:10.833Z",

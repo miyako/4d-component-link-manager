@@ -16,6 +16,11 @@ For ($i;0;$subset.length-1)
 	$server:=$subset[$i]
 	If ($servers.query("name == :1 and addr == :2";\
 		$server.name;$server.addr).length=0)
+		
+		If (Form:C1466.servers.sel.indexOf(Form:C1466.servers.item)#-1)
+			Form:C1466.servers.item:=Null:C1517
+		End if 
+		
 		Form:C1466.servers.col.remove(Form:C1466.servers.col.indexOf($server))
 		Form:C1466.servers.sel.remove(Form:C1466.servers.sel.indexOf($server))
 	End if 

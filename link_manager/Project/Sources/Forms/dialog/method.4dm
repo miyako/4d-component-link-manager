@@ -77,6 +77,8 @@ without starting a new shadow runloop
 		Form:C1466.servers.metas[1].stroke:="#633974"
 		Form:C1466.servers.metas[1].fill:="#F5EEF8"
 		
+		Form:C1466.connect:=Formula:C1597(connect_to_server )
+		
 	: ($event.code=On Unload:K2:2)
 		
 		KILL WORKER:C1390(Form:C1466.worker.name)
