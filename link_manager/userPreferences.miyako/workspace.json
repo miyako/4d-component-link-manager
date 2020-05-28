@@ -1,7 +1,7 @@
 ﻿{
 	"editors": [
 		{
-			"type": "toolbox"
+			"type": "explorer"
 		}
 	]
 }

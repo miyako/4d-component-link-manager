@@ -1,0 +1,81 @@
+﻿{
+	"map": [
+		{
+			"id": 2147483647,
+			"path": "Sources/Methods/f_scan_p.4dm"
+		},
+		{
+			"id": 2147483646,
+			"path": "Sources/Methods/dialog_p.4dm"
+		},
+		{
+			"id": 2147483645,
+			"path": "Sources/Methods/link_manager.4dm"
+		},
+		{
+			"id": 2147483644,
+			"path": "Sources/Methods/o_status.4dm"
+		},
+		{
+			"id": 2147483643,
+			"path": "Sources/Methods/meta_dialog.4dm"
+		},
+		{
+			"id": 2147483642,
+			"path": "Sources/Methods/connect_to_server.4dm"
+		},
+		{
+			"id": 2147483641,
+			"path": "Sources/Methods/on_after_scan_ui.4dm"
+		},
+		{
+			"id": 2147483640,
+			"path": "Sources/Methods/e_signal_timeout.4dm"
+		},
+		{
+			"id": 2147483639,
+			"path": "Sources/Methods/f_scan.4dm"
+		},
+		{
+			"id": 2147483638,
+			"path": "Sources/Methods/f_dialog_c.4dm"
+		},
+		{
+			"id": 2147483637,
+			"path": "Sources/Methods/TEST.4dm"
+		},
+		{
+			"id": 2147483636,
+			"path": "Sources/Methods/f_dialog.4dm"
+		},
+		{
+			"id": 2147483635,
+			"path": "Sources/Methods/check_plugins.4dm"
+		},
+		{
+			"id": 2147483634,
+			"path": "Sources/Methods/check_plugins_c.4dm"
+		},
+		{
+			"id": 2147483633,
+			"path": "Sources/Methods/on_after_scan.4dm"
+		},
+		{
+			"id": 2147483632,
+			"path": "Sources/Forms/dialog/method.4dm"
+		},
+		{
+			"id": 2147483631,
+			"path": "Sources/Forms/dialog/ObjectMethods/enter.4dm"
+		},
+		{
+			"id": 2147483630,
+			"path": "Sources/Forms/dialog/ObjectMethods/return.4dm"
+		},
+		{
+			"id": 2147483629,
+			"path": "Sources/Forms/dialog/ObjectMethods/servers.4dm"
+		}
+	],
+	"arch64": true
+}

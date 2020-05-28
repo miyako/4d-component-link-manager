@@ -13,6 +13,7 @@
 	"private": {
 		"methods": [
 			"check_plugins",
+			"connect_to_server",
 			"e_signal_timeout",
 			"f_dialog",
 			"f_scan",
