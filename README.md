@@ -11,6 +11,10 @@ $params:=New object("ports";New collection(19813;19814);"wait";1)
 $link_manager.dialog($params)
 ```
 
+#### Remarks
+
+When running from the main process (``On Startup``, ``SET ABOUT``...) make sure to start a new process.
+
 <img width="767" alt="" src="https://user-images.githubusercontent.com/1725068/82210630-620efb00-994a-11ea-9706-2413cca826a2.png">
 
 * For best performance, run in compiled mode!
