@@ -31,7 +31,7 @@ When running from the main process (``On Startup``, ``SET ABOUT``...) make sure 
 
 ### Usage (API)
 
-```
+```4d
 /* returns a shared singleton */
 $link_manager:=link_manager 
 
